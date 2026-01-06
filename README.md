@@ -77,15 +77,6 @@ AI & ML Enthusiast | Full Stack Developer | Cloud & Scalable Systems
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hbprasad0110-rgb&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbprasad0110-rgb&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/hbprasad0110-rgb/hbprasad0110-rgb/output/github-contribution-grid-snake.svg"/>
