@@ -14,18 +14,18 @@ AI & ML Enthusiast | Full Stack Developer | Cloud & Scalable Systems
 ---
 
 ## 🚀 About Me
-💡 Passionate about building **intelligent, scalable applications** that blend  
+💡 Passionate about building **intelligent, scalable applications** that combine  
 **AI/ML models**, **data-driven systems**, and **cloud-native architectures**.
 
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 📊 Love working on **data analysis & intelligent backend systems**
-- ☁️ Hands-on with **Docker, Kubernetes, CI/CD**
-- 💻 Strong foundation in **Full Stack & Backend Development**
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data analysis & intelligent backend systems
+- ☁️ Cloud-native development (Docker, Kubernetes, CI/CD)
+- 💻 Full Stack & Backend Engineering
 
 ---
 
-## 🧠 AI / ML & Data Skills
-<p align="left">
+## 🧠 AI / ML & Data
+<p>
   <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Analysis-4CAF50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Data%20Preprocessing-03A9F4?style=for-the-badge"/>
@@ -35,7 +35,7 @@ AI & ML Enthusiast | Full Stack Developer | Cloud & Scalable Systems
 ---
 
 ## 💻 Programming & Frameworks
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -47,7 +47,7 @@ AI & ML Enthusiast | Full Stack Developer | Cloud & Scalable Systems
 ---
 
 ## 🗄️ Databases
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
@@ -57,7 +57,7 @@ AI & ML Enthusiast | Full Stack Developer | Cloud & Scalable Systems
 ---
 
 ## ☁️ Cloud & DevOps
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
@@ -68,17 +68,32 @@ AI & ML Enthusiast | Full Stack Developer | Cloud & Scalable Systems
 ---
 
 ## ⭐ Featured Projects
-🔹 **Pizza Delivery System** – MEAN Stack Full-Stack Application  
-🔹 **Chat Application** – Real-time messaging with Socket.io  
-🔹 **Wedding Management DBMS** – Database design & SQL queries  
-🔹 **Online Library System** – Web-based CRUD application  
+- 🍕 **Pizza Delivery System** – MEAN stack full-stack application  
+- 💬 **Chat Application** – Real-time chat using Socket.io  
+- 💍 **Wedding Management DBMS** – Database design & SQL queries  
+- 📚 **Online Library System** – Web-based CRUD system  
 
 👉 Check pinned repositories below ⬇️
 
 ---
 
+## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hbprasad0110-rgb&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbprasad0110-rgb&layout=compact&theme=tokyonight"/>
+</p>
 
-## 🤝 Let's Connect
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hbprasad0110-rgb/hbprasad0110-rgb/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 🤝 Let’s Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/harsha-prasad-3188a512a">
     <img src="https://img.shields.io/badge/LinkedIn-Harsha%20Prasad-blue?style=for-the-badge&logo=linkedin"/>
