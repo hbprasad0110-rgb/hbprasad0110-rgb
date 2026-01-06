@@ -1,39 +1,63 @@
-# Hi, I'm Harsha Prasad 👋
-Master’s in CS (AI/ML) @ UTA | Full Stack Developer | Cloud & Scalable Systems
+# Hi, I'm Harsha Prasad 👋  
 
-- 🔭 I build web apps + backend systems (Node.js, Angular/React, SQL/NoSQL)
-- ☁️ Interested in cloud-native (Docker, Kubernetes, CI/CD)
-- 📫 Reach me: LinkedIn → https://www.linkedin.com/in/harsha-prasad-3188a512a
+🎓 Master’s in Computer Science (AI / ML) @ University of Texas at Arlington  
+💻 Full Stack Developer | AI & ML Enthusiast | Cloud & Scalable Systems  
+
+I enjoy building **intelligent, scalable applications** that combine  
+modern web technologies with **AI/ML-driven insights** and **cloud-native architectures**.
+
+---
+
+## 🚀 What I’m Interested In
+- 🤖 Artificial Intelligence & Machine Learning (model building, data-driven systems)
+- 📊 Data analysis, backend intelligence & decision systems
+- ☁️ Cloud-native development (Docker, Kubernetes, CI/CD)
+- 🧠 Designing scalable, secure, and high-performance applications
+
+---
+
+## 🧰 Tech Stack & Skills
+
+### 💻 Programming & Frameworks
+- **Languages:** Python, JavaScript, TypeScript  
+- **Frontend:** Angular, React, HTML, CSS  
+- **Backend:** Node.js, REST APIs, Microservices  
+
+### 🗄️ Databases
+- PostgreSQL, MySQL, MongoDB, Oracle SQL  
+- Database design, indexing, query optimization
+
+### 🤖 AI / ML & Data
+- Machine Learning fundamentals  
+- Data preprocessing & analysis  
+- Model experimentation and evaluation  
+
+### ☁️ Cloud & DevOps
+- AWS, Azure  
+- Docker, Kubernetes  
+- CI/CD pipelines  
+- Git & GitHub  
 
 ---
 
 ## ⭐ Featured Projects
-### 🍕 Pizza Delivery System (MEAN Stack)
-Online ordering system built using MEAN stack.
-➡️ Repo: https://github.com/hbprasad0110-rgb/PizzaDeliverySystem
+- **Pizza Delivery System** – Full-stack MEAN application  
+- **Chat Application** – Real-time chat using Socket.io  
+- **Wedding Management DBMS** – SQL-based database design project  
+- **Online Library System** – Web-based application  
 
-### 💬 Chat Application (Socket.io + Angular)
-Real-time chat app with rooms for group and private chats.
-➡️ Repo: https://github.com/hbprasad0110-rgb/chat-application
-
-### 💍 Wedding Management Database System (SQL)
-DBMS project with schema design + SQL scripts (create/insert/update/queries).
-➡️ Repo: https://github.com/hbprasad0110-rgb/Forever-Beyond-Wedding-Management-Database-System
-
-### 📚 Online Library
-Small online book store (HTML/PHP).
-➡️ Repo: https://github.com/hbprasad0110-rgb/online-library
-
----
-
-## 🧰 Tech Stack
-**Backend:** Node.js, REST APIs  
-**Frontend:** Angular, React  
-**DB:** PostgreSQL, MySQL, MongoDB  
-**DevOps/Cloud:** Docker, Kubernetes, CI/CD, AWS/Azure
+(See pinned repositories below 👇)
 
 ---
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hbprasad0110-rgb&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hbprasad0110-rgb&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hbprasad0110-rgb&layout=compact)
+
+---
+
+## 🤝 Let’s Connect
+🔗 **LinkedIn:** https://www.linkedin.com/in/harsha-prasad-3188a512a  
+
+I’m actively exploring opportunities and collaborations in  
+**AI/ML, Full Stack Development, and Cloud Engineering** 🚀
