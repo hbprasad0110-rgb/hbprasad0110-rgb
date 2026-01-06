@@ -77,14 +77,6 @@ AI & ML Enthusiast | Full Stack Developer | Cloud & Scalable Systems
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hbprasad0110-rgb&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbprasad0110-rgb&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 ## 🤝 Let's Connect
 <p align="center">
