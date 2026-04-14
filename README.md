@@ -5,9 +5,6 @@ AI & ML Enthusiast | Full Stack Developer | Cloud & Scalable Systems
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/hbprasad0110-rgb/hbprasad0110-rgb/main/profile.jpg" width="180"/>
-</p>
-<p align="center">
   <a href="https://www.linkedin.com/in/harsha-prasad-3188a512a">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
