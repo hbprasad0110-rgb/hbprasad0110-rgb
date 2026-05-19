@@ -166,19 +166,6 @@
 
 </div>
 
----
-
-## 📅 Contribution Activity by Year
-
-> Click a year below to view your GitHub contribution graph for that year:
-
-<div align="center">
-
-[![2025](https://img.shields.io/badge/Contributions-2025-58a6ff?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hbprasad0110-rgb?tab=overview&from=2025-01-01&to=2025-12-31)
-[![2024](https://img.shields.io/badge/Contributions-2024-8b949e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hbprasad0110-rgb?tab=overview&from=2024-01-01&to=2024-12-31)
-[![2023](https://img.shields.io/badge/Contributions-2023-8b949e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hbprasad0110-rgb?tab=overview&from=2023-01-01&to=2023-12-31)
-
-</div>
 
 ---
 
