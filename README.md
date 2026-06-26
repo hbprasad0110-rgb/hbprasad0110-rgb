@@ -26,7 +26,7 @@
 
 > I deploy **AI that actually works in production** — not demos, not prototypes.
 
-- 🏢 **6+ years** shipping enterprise software at **PwC** (global consulting) & **FirstCry.com** (India's largest baby products platform)
+- 🏢 **5+ years** shipping enterprise software at **PwC** (global consulting) & **FirstCry.com** (India's largest baby products platform)
 - 🤖 Built **AI pipelines into real healthcare systems** — Google Speech-to-Text, Azure Cognitive Services, RAG, LLM orchestration
 - ☁️ Shipped **microservices at scale** — Kafka, Kubernetes, Docker, CI/CD, 99.9% uptime
 - 🎓 **MS Computer Science (AI/ML track)** @ University of Texas at Arlington — May 2027
